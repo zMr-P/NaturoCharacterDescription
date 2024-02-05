@@ -1,10 +1,6 @@
-# Projeto Naruto
-
-#### Site simples sobre a descrição dos personagens mais icônicos de Naruto.
-
 # 📎Sobre o Projeto
 
-#### Projeto embasado na "Semana do 0 ao programador contratado" [(canal DevemDobro)](https://www.youtube.com/@DevemDobro).
+#### Site simples com a descrição dos personagens mais icônicos de Naruto, projeto embasado na "Semana do 0 ao programador contratado" [(canal DevemDobro)](https://www.youtube.com/@DevemDobro).
 à qual o Tema escolhido foi One Piece.
 
 # 📚Recursos
